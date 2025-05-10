@@ -62,7 +62,7 @@ export const About = () => {
                 <div className="space-y-4 text-gray-300">
                   <div>
                     <h4 className="font-semibold">
-                      Frontend Developer - PT. Karya Teknologi Indonesia [
+                      Frontend Developer - PT. Fly in Space [
                       Present ]
                     </h4>
                     <p>
