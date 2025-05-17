@@ -1,8 +1,8 @@
 import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
-  const frontendSkills = ["React", "NextJS", "TailwindCSS"];
-  const backendSkills = ["NodeJS", "MongoDB", "Python"];
+  const frontendSkills = ["React", "TailwindCSS"];
+  const backendSkills = ["NodeJS", "NextJS", "MongoDB", "Python"];
   return (
     <section
       id="about"
@@ -62,8 +62,7 @@ export const About = () => {
                 <div className="space-y-4 text-gray-300">
                   <div>
                     <h4 className="font-semibold">
-                      Frontend Developer - PT. Fly in Space [
-                      Present ]
+                      Frontend Developer - PT. Fly in Space [ Present ]
                     </h4>
                     <p>
                       Developed and maintained web applications using React,
